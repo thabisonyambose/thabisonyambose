@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @thabisonyambose
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Thabiso Nyambose, from SA
+- 👀 I’m interested in Cyber security
+- 🌱 I’m currently learning CCNA
+- 💞️ I’m looking to collaborate on Web Developments
+- 📫 How to reach me thabisonyambose33@gmail.com
 
 <!---
 thabisonyambose/thabisonyambose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
